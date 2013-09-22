@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="zxinglib_app_name">Gym Viet CRM</string>
+    <string name="zxinglib_msg_default_status">Place a barcode/QR inside the viewfinder rectangle to scan it. </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_zxing_lib_sample">ZXingLibSampleActivity</string>
+    <string name="url_get_user_infor">http://gymviet.info/dev/v1/Tip/random_tip.php</string>
+
+</resources>
